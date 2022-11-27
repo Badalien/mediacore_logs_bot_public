@@ -1,0 +1,13 @@
+{
+    "cred": {
+        "username" : "{mc-username}",
+        "password" : "{mc-password}"
+    },
+    "methods": {
+        "login" : "login",
+        "logs" : "audites_get"
+    },
+    "ip" : "{your_public_ip}",
+    "mc_base_url" : "http://voipmanager.zorra.com:8070/api/",
+    "log_file": "mc-logs-full.log"
+}

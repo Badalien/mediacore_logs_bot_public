@@ -1,0 +1,6 @@
+{
+    "host" : "localhost",
+    "user" : "remote_user",
+    "password" : "123123",
+    "db_name" : "mclogs"
+}
